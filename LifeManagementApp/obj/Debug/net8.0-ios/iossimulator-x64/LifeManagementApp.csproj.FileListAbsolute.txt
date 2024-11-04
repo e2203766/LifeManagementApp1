@@ -341,3 +341,5 @@ C:\Users\X250\source\repos\LifeManagementApp\LifeManagementApp\obj\Debug\net8.0-
 C:\Users\X250\source\repos\LifeManagementApp\LifeManagementApp\obj\Debug\net8.0-ios\iossimulator-x64\LifeManagementApp.genruntimeconfig.cache
 C:\Users\X250\source\repos\LifeManagementApp\LifeManagementApp\obj\Debug\net8.0-ios\iossimulator-x64\ref\LifeManagementApp.dll
 C:\Users\X250\source\repos\LifeManagementApp\LifeManagementApp\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
+C:\Users\X250\source\repos\LifeManagementApp\LifeManagementApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\weatherfon.png
+C:\Users\X250\source\repos\LifeManagementApp\LifeManagementApp\obj\Debug\net8.0-ios\iossimulator-x64\LifeManagementApp.sourcelink.json

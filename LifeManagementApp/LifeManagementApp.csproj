@@ -58,6 +58,10 @@
     </ItemGroup>
 
     <ItemGroup>
+      <None Remove="Resources\Images\weatherfon.png" />
+    </ItemGroup>
+
+    <ItemGroup>
         <PackageReference Include="CommunityToolkit.Maui.MediaElement" Version="4.1.2" />
         <PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
         <PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
