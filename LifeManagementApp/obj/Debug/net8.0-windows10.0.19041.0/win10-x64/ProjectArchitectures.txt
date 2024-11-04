@@ -1,0 +1,1 @@
+C:\Users\X250\source\repos\LifeManagementApp\LifeManagementApp\LifeManagementApp.csproj;x64
